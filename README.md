@@ -1,2 +1,3 @@
 # hello-world
-a hello world repository
+A hello world repository
+As a test place.
